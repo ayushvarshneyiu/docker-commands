@@ -1,3 +1,4 @@
 docker volume create ayush    #to create new volume
 docker volume ls                  #to list the volume
 docker volume inspect ayush           #provide details of the volume
+docker volume rm ayush                # to delete the volume
